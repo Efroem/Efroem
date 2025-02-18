@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Efraïm van den Hoek
+# Hi there, I'm Efraïm van den Hoek
 
 *I'm a Passionate Developer, always learning and eager to collaborate on exciting projects.*
 
